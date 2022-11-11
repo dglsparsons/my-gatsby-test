@@ -1,0 +1,4 @@
+{
+  "installCommand": "/node18/bin/npm install",
+  "buildCommand": "/node18/bin/npm run build"
+}
